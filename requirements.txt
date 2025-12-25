@@ -1,9 +1,9 @@
-requirements
-
 pandas 
 
 streamlit 
 
 plotly
+
+
 
 
