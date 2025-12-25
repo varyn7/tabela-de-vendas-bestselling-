@@ -6,7 +6,7 @@ st.set_page_config(layout="wide")
 
 
 
-df_top100_books = pd.read_csv ("datasets/top-100 Trending Books.csv",  on_bad_lines="skip")
+df_top100_books = pd.read_csv ("datasets/Top-100 Trending Books.csv",  on_bad_lines="skip")
 
 price_max = df_top100_books["book price"].max()
 price_min = df_top100_books["book price"].min()
