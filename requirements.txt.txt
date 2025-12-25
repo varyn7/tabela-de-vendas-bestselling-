@@ -1,8 +1,9 @@
-requirements.txt
+requirements
 
 pandas 
 
 streamlit 
 
 plotly
+
 
